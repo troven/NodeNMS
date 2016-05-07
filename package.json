@@ -23,7 +23,7 @@
     "url": "https://github.com/troven/node-nms.git"
   },
   "dependencies": {
-    "pcap": "^2.0.1",
+    "pcap": "git+https://github.com/mranney/node_pcap.git",
     "ping": "^0.1.10",
     "rethinkdb": "^2.0.0-2",
     "underscore": "^1.8.3"
